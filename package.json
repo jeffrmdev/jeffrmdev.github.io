@@ -1,0 +1,19 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "Este es un pequeño repositorio donde colocaré mis projectos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffrmdev/jeffrmdev.github.io.git"
+  },
+  "author": "Jeff Rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffrmdev/jeffrmdev.github.io/issues"
+  },
+  "homepage": "https://github.com/jeffrmdev/jeffrmdev.github.io#readme"
+}
